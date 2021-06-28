@@ -1,0 +1,62 @@
+﻿-------- day 0 --------
+Conjured Mana Cake, 3, 6
+-------- day 1 --------
+Conjured Mana Cake, 2, 4
+-------- day 2 --------
+Conjured Mana Cake, 1, 2
+-------- day 3 --------
+Conjured Mana Cake, 0, 0
+-------- day 4 --------
+Conjured Mana Cake, -1, 0
+-------- day 5 --------
+Conjured Mana Cake, -2, 0
+-------- day 6 --------
+Conjured Mana Cake, -3, 0
+-------- day 7 --------
+Conjured Mana Cake, -4, 0
+-------- day 8 --------
+Conjured Mana Cake, -5, 0
+-------- day 9 --------
+Conjured Mana Cake, -6, 0
+-------- day 10 --------
+Conjured Mana Cake, -7, 0
+-------- day 11 --------
+Conjured Mana Cake, -8, 0
+-------- day 12 --------
+Conjured Mana Cake, -9, 0
+-------- day 13 --------
+Conjured Mana Cake, -10, 0
+-------- day 14 --------
+Conjured Mana Cake, -11, 0
+-------- day 15 --------
+Conjured Mana Cake, -12, 0
+-------- day 16 --------
+Conjured Mana Cake, -13, 0
+-------- day 17 --------
+Conjured Mana Cake, -14, 0
+-------- day 18 --------
+Conjured Mana Cake, -15, 0
+-------- day 19 --------
+Conjured Mana Cake, -16, 0
+-------- day 20 --------
+Conjured Mana Cake, -17, 0
+-------- day 21 --------
+Conjured Mana Cake, -18, 0
+-------- day 22 --------
+Conjured Mana Cake, -19, 0
+-------- day 23 --------
+Conjured Mana Cake, -20, 0
+-------- day 24 --------
+Conjured Mana Cake, -21, 0
+-------- day 25 --------
+Conjured Mana Cake, -22, 0
+-------- day 26 --------
+Conjured Mana Cake, -23, 0
+-------- day 27 --------
+Conjured Mana Cake, -24, 0
+-------- day 28 --------
+Conjured Mana Cake, -25, 0
+-------- day 29 --------
+Conjured Mana Cake, -26, 0
+-------- day 30 --------
+Conjured Mana Cake, -27, 0
